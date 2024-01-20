@@ -7,14 +7,19 @@ body {
     background-color: #4f495c;
     color:#e0e0e0;
     background-image: url("../cubes.png");
+    font: 14px/1.5 "Ubuntu", sans-serif;
 
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu Mono';
     color:#c1c1c1;
     margin:0 0 20px;
 }
 
+h1 > a {
+    color: #cbc5d8;
+}
 
 h2 {
     color:#aeaeae;
