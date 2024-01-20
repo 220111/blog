@@ -17,7 +17,7 @@ title: Henry Morin
 email: henry@hmorin.com
 description: >- # this means to ignore newlines until "baseurl:"
   All about my adventures in game dev and other programming.
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://hmorin.com/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  220111
 
