@@ -13,7 +13,7 @@ I decided to start this blog so I can keep track of my progress with some of my 
 
 ## Cat Collecting: The Game
 
-![Foot Cat from Cat Collecting game](/assets/cat2.png)
+![Foot Cat from Cat Collecting game](/blog/assets/cat2.png)
 
 ### Inspiration
 
@@ -31,7 +31,7 @@ I am using Godot for this project because it's where I ended up after the whole 
 
 I am really (subjectively) bad at art. If you think that cat looks good, I traced it and look at this one below. I am drawing these on my iPad which is super convenient and the results are not that bad as long as I trace something and keep to my theme. Pixel art would actually be a lot worse in my opinion because it would take me so long to make something I was happy about. The cats are kinda gonna all be unique styles so hopefully nobody will care about Orange Cat and compare it directly to Foot Cat.
 
-![OrangeCat from Cat Collecting game](/assets/cat1.png)
+![OrangeCat from Cat Collecting game](/blog/assets/cat1.png)
 
 ---
 
