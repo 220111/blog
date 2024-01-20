@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #4f495c;
+    color:#e0e0e0;
+    background-image: url("../cubes.png");
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#c1c1c1;
+    margin:0 0 20px;
+}
+
+
+h2 {
+    color:#aeaeae;
+}
+
+h3, h4, h5, h6 {
+    color:#a7a7a7;
+}
+
+a {
+    color:#35beeb;
+    text-decoration:none;
+}
+
+section{
+    background-color: #575260;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+header{
+    background-color: #575260;
+    padding: .5rem;
+    border-radius: 1rem;
+}
